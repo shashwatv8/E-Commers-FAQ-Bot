@@ -45,8 +45,3 @@ pydantic>=2.0.0
 # --- Jupyter (for local notebooks if needed) ---
 jupyter>=1.0.0
 ipykernel>=6.29.0
-
-
-
-
-llama-3.3-70b-versatile
