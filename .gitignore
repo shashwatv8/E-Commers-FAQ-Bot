@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 venv/
 .ipynb_checkpoints/
+Capstone_Report.docx
+Capstone_Report.pdf
